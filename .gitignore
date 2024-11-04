@@ -1,0 +1,8 @@
+node_modules/
+*.map
+.prettierignore
+tsconfig.tsbuildinfo
+*~
+*.wat
+packer
+
