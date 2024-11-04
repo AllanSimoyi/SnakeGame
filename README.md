@@ -53,4 +53,3 @@ After building, you can play the game by opening the `index.html` file in your b
 ## License
 
 This project is licensed under the ISC License.
-```
